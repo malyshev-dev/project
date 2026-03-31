@@ -1,0 +1,25 @@
+{
+  "name": "pulse",
+  "version": "1.0.0",
+  "homepage": "https://github.com/malyshev-dev/project#readme",
+  "bugs": {
+    "url": "https://github.com/malyshev-dev/project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malyshev-dev/project.git"
+  },
+  "license": "ISC",
+  "author": "AlexeyM",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "browser-sync": "^3.0.4",
+    "gulp": "^5.0.1",
+    "gulp-file-include": "^2.3.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-size": "^5.0.0"
+  }
+}
